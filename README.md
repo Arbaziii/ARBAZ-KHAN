@@ -1,1 +1,1 @@
-The Tv shows Viewership dataset provides the data about the weekly viewership trends of different TV shows and films of different categories.The python code is written In order  to analyze the data to understand different patterns, popular categories, and the relationship between different variables. The dataset consists of several columns including the week, category, show title, weekly hours viewed, runtime, weekly views, and more. It covers multiple weeks and provides a dataview of the global viewership landscape.
+
